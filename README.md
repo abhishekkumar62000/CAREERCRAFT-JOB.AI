@@ -256,32 +256,79 @@ venv\Scripts\activate
 source venv/bin/activate
 
 
-📦 Step 3: Install Dependencies
-pip install -r requirements.txt
+### 🔧 **Prerequisites**  
+Make sure you have the following installed:  
+- ✅ Python 3.8+ 🐍  
+- ✅ pip 📦  
+- ✅ Streamlit 🌐  
+- ✅ Google Gemini API key (for AI-powered features) 🔑  
+
+## 🔥 **How to Run This Project Locally?**  
+
+### **1️⃣ Clone This Repo**
+```bash
+git clone https://github.com/abhishekkumar62000/CAREERCRAFT-JOB.AI.git
+cd ai-resumexpert-analyst
+<p align="center">
+  <img src="https://yourimageurl.com/contribute.png" alt="Contribute" width="500">
+</p>
+
+---
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the app:**
+   ```bash
+   streamlit run app.py
+   ```
+
+---
 
 
-📂 Step 4: Project Structure (Typical Example)
-careercraft-job-ai/
-├── app.py
-├── requirements.txt
-├── README.md
-├── resume_utils/
-│   ├── parser.py
-│   ├── analyzer.py
-│   └── visualizer.py
-├── job_recommender/
-│   ├── matcher.py
-│   └── job_data.py
-├── interview/
-│   └── interview_generator.py
-├── assets/
-│   ├── logos/
-│   └── styles/
-├── data/
-│   └── skill_list.json
+## ❤️ **Made with Passion by Abhishek Yadav & Open-Source Contributors!** 🚀✨
 
 
-▶️ Step 5: Run the App Locally
-streamlit run app.py
+<h1 align="center">© LICENSE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" /></h1>
+
+<table align="center">
+  <tr>
+     <td>
+       <p align="center"> <img src="https://github.com/malivinayak/malivinayak/blob/main/LICENSE-Logo/MIT.png?raw=true" width="80%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/> <br> 
+This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+
+
+ <hr>
+
+<div align="center">
+<a href="#"><img src="assets/githubgif.gif" width="150"></a>
+	
+### **Thanks for checking out my GitHub Profile!**  
+
+ ## 💌 Sponser
+
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/abhishekkumar62000)
+
+## 👨‍💻 Developer Information
+**Created by **Abhishek kumar** 
+**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+
+![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
+
+</div>  
 
 ---

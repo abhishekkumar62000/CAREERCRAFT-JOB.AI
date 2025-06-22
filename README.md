@@ -242,4 +242,46 @@ Internal components communicate via shared data structures (pandas DataFrames + 
 * Create a short video walkthrough for public users
 * Set up **GitHub contributors’ guidelines** to invite open source collaboration
 
+* git clone https://github.com/abhishekkumar62000/CAREERCRAFT-JOB.AI.git
+cd careercraft-job-ai
+
+
+# Create virtual environment
+python -m venv venv
+
+# Activate (Windows)
+venv\Scripts\activate
+
+# Activate (Linux/Mac)
+source venv/bin/activate
+
+
+📦 Step 3: Install Dependencies
+pip install -r requirements.txt
+
+
+📂 Step 4: Project Structure (Typical Example)
+careercraft-job-ai/
+├── app.py
+├── requirements.txt
+├── README.md
+├── resume_utils/
+│   ├── parser.py
+│   ├── analyzer.py
+│   └── visualizer.py
+├── job_recommender/
+│   ├── matcher.py
+│   └── job_data.py
+├── interview/
+│   └── interview_generator.py
+├── assets/
+│   ├── logos/
+│   └── styles/
+├── data/
+│   └── skill_list.json
+
+
+▶️ Step 5: Run the App Locally
+streamlit run app.py
+
 ---
